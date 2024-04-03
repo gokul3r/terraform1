@@ -12,3 +12,6 @@ def div(a,b):
 
 def sqrt(a):
     return(a)
+
+def parellelogram(a):
+    return(a)
