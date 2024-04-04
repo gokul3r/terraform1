@@ -20,7 +20,8 @@ Josh Samuelson
                             
 DevOps Engineer
 
-added by Gokul R          
+added by Gokul R
+dev1 updated this
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/josh-samuelson).
 
